@@ -1,5 +1,4 @@
 
-```markdown
 # Nền tảng Học Ngoại Ngữ và Giao Tiếp Quốc Tế
 
 Đây là một dự án nền tảng Học Ngoại Ngữ và Giao Tiếp Quốc Tế. Dự án này nhằm cung cấp một giao diện đơn giản để người dùng có thể đăng ký thông tin về việc học ngoại ngữ và giao tiếp quốc tế.
